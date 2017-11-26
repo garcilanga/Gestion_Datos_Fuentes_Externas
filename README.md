@@ -10,7 +10,7 @@ La variedad y diversidad de los orígenes, formatos, volúmenes y calidad de los
 
 El enorme desarrollo en el campo de las tecnologías Big Data ha proporcionado **nuevas tecnologías y herramientas** que permiten **abordar muchos de los problemas y desafíos tecnológicos** que, de forma natural, han sobrevenido con la aparición de nuevos escenarios a lo largo del tiempo. Estas nuevas tecnologías y herramientas permiten adecuar los procesos conocidos como ETL a nuevas necesidades tanto actuales como previsiblemente futuras.
 
-En la siguiente tabla se confrontan un serie de herramientas y tecnologías tradicionales con otras más actuales para resolver el problema de la gestión de datos de fuentes externas:
+En la siguiente tabla se confrontan un serie de herramientas y tecnologías tradicionales con otras más actuales para resolver los problemas de la gestión de datos de fuentes externas:
 
 | Sistema tradicional | Sistema avanzado | Más información |
 |----------|----------|----------|
