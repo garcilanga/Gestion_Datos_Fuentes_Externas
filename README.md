@@ -21,7 +21,7 @@ En la siguiente tabla se confrontan un serie de herramientas y tecnologías trad
 | RESTfull | GraphQL | [RESTfull vs GraphQL](RESTfull_vs_GraphQL.md) |
 
 
-# Referencias y más información
+## Referencias y más información
 - [Extract, transform and load](https://es.wikipedia.org/wiki/Extract,_transform_and_load)
 
 
