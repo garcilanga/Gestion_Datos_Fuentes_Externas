@@ -37,3 +37,4 @@ REST tiene una asignatura pendiente con la **documentación**, casi siempre pobr
 - [Primer borrador del RFC (aún en desarrollo)](http://facebook.github.io/graphql/October2016/)
 - [Introducción a GraphQL](https://platzi.com/blog/introduccion-a-graphql/)
 - [¿Por qué deberíamos abandonar REST y empezar a usar GraphQL en nuestras APIs?](https://www.genbetadev.com/desarrollo-aplicaciones-moviles/por-que-deberiamos-abandonar-rest-y-empezar-a-usar-graphql-en-nuestras-apis)
+
