@@ -1,4 +1,4 @@
-# Java vs Python. ¿Cuál es mejor?
+# Java vs Python.
 
 Java y Python son dos populares **lenguajes de programación interpretados** (a pesar de que solo una parte de Java lo es). Ambos están en la vanguardia, por lo que debe mantenerse una mente abierta a la hora de decidir.
 
@@ -16,8 +16,6 @@ Python es más antiguo que Java, fue lanzado por primera vez en 1991 por su inve
 La sintaxis de Python incorpora una filosofía de legibilidad, con un estilo simple y regular que fomenta la brevedad y el diseño de código consistente.
 
 Tiene soporte para programación procedimental, programación modular y algunos aspectos de programación funcional.
-
-Aunque en la evolución de los lenguajes de programación es común mantener la compatibilidad hacia atrás, este no es el caso de Python, ya que Python 3 fue concebido como un nuevo lenguaje que aprendía de la experiencia de Python 2. La última versión de Python 2, la 2.7, sólo será mantenida hasta 2020.
 
 # Ventajas de Python sobre Java
 
@@ -47,34 +45,13 @@ Aunque en la evolución de los lenguajes de programación es común mantener la 
 
 **Colocación de objetos**: Java resulta tener una aplastante victoria en el momento de colocar objetos en memoria, tomándole aproximadamente 8 veces menos tiempo. Python aún no tiene el nivel del lenguaje de la tacita en este punto.
 
-La velocidad del intérprete: Quizás el punto más interesante. Java por el momento también tiene una ventaja al momento de convertir el código de fuente en Bytecode. Python resulta un poco más lento en rendimiento general al momento de correr aplicaciones grandes, como juegos por ejemplo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Conclusiones
 
 Ningún lenguaje de programación es mejor que otro. Pero siempre un lenguaje de programación es mejor que otro PARA CIERTAS COSAS. El asunto está en saber qué necesito para mi aplicación.
 
 Un problema grave es cuando un programador se enfoca en uno de ellos, porque se cierra a muchas posibilidades.
 
-
-
-
-
-
-
 ## Referencias y más información
 
 - [Comparación Java vs Python: ¿Cuál es más rápido?](http://elanalistasistema.blogspot.com.es/2016/01/comparacion-java-vs-python-cual-es-mas.html)
+
