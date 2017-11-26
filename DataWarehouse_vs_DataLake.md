@@ -16,7 +16,7 @@ Los sistemas data lake permiten explotar al máximo, deviniendo en fuentes inago
 
 Cuando se piensa en implementar una solución como ésta existen dos opciones, construir un data lake propio u optar por alguna de las soluciones Data Lake AAS que existen en el mercado.
 
-Ambas proporcionan a la organización un **potencial muy elevado de procesamiento de datos** en la nube que le permite obtener resultados empresariales más rápidos y, sobre todo en el último caso, también **de una manera muy rentable**.
+Ambas opciones proporcionan a la organización un **potencial muy elevado de procesamiento de datos** en la nube que le permite obtener resultados empresariales más rápidos y, sobre todo en el último caso, también **de una manera muy rentable**.
 
 ## Referencias y más información
 
