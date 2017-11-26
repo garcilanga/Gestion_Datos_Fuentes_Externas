@@ -54,3 +54,5 @@ La aplicación de un procedimiento u otro en un proyecto determinado dependerá 
 - [ETL vs ELT](https://aprendebi.wordpress.com/2017/05/25/etl-vs-elt/)
 - [¿ETL o E-LT? ](https://gravitar.biz/bi/etl-elt/)
 - [¿Procesos ETL o ELT? 2 ventajas de E-LT sobre ETL](https://blog.powerdata.es/el-valor-de-la-gestion-de-datos/bid/289596/procesos-etl-o-elt-2-ventajas-de-e-lt-sobre-etl)
+
+
