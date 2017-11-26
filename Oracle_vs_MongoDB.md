@@ -65,6 +65,3 @@ Un caso de uso especialmente interesante son los procesos ETL/ELT, en los que se
 - [MongoDB and Oracle Compared](https://www.mongodb.com/compare/mongodb-oracle)
 - [Una comparación de rendimiento entre Oracle y MongoDB](http://www.scielo.org.co/pdf/cein/v26n1/v26n1a07.pdf)
 
-
-
-
