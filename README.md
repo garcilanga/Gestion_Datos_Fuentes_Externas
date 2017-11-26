@@ -8,7 +8,7 @@ Los procesos ETL pueden ser muy complejos, y **un sistema ETL mal diseñado pued
 
 La variedad y diversidad de los orígenes, formatos, volúmenes y calidad de los datos, de los tipos y rangos de valores, de las reglas de validación y transformación, ... y la necesidad de intervención en estos sistemas de información para adaptarlos a nuevas situaciones, convierte en una **cuestión clave y vital** la definición de una estrategia correcta de **gestión de datos e informaciones lo suficientemente versátil, flexible, eficiente y ESCALABLE**, adoptando los sistemas más adecuados para los intereses y las necesidades de la compañía.
 
-El enorme desarrollo en el campo de las tecnologías Big Data ha proporcionado **nuevas tecnologías y herramientas** que permiten **abordar muchos de los problemas y desafíos tecnológicos** que, de forma natural, han sobrevenido con la aparición de nuevos escenarios durante este tiempo. Estas nuevas tecnologías y herramientas permiten adecuar los procesos conocidos como ETL a nuevas necesidades tanto actuales como futuras.
+El enorme desarrollo en el campo de las tecnologías Big Data ha proporcionado **nuevas tecnologías y herramientas** que permiten **abordar muchos de los problemas y desafíos tecnológicos** que, de forma natural, han sobrevenido con la aparición de nuevos escenarios con el paso del tiempo. Estas nuevas tecnologías y herramientas permiten adecuar los procesos conocidos como ETL a nuevas necesidades tanto actuales como futuras.
 
 En la siguiente tabla se confrontan un serie de herramientas y tecnologías tradicionales con otras más actuales para resolver el problema de la gestión de datos de fuentes externas:
 
