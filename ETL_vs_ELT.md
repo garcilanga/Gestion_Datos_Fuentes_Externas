@@ -25,19 +25,19 @@ Una variante de los procesos ETL son los procesos ELT (Extract, Load and Transfo
 
 **Los procesos ELT hacen un mejor uso de los recursos**
 
-Hoy día, las bases de datos, en general, están mejor preparadas para la optimización de los recursos (disco, memoria y proceso).
+- Hoy día, las bases de datos, en general, están mejor preparadas para la optimización de los recursos (disco, memoria y proceso).
 
-Además, los avances en el área del procesamiento distribuido han alcanzado tanto a las bases de datos como a los sistemas de procesamiento.
-    
-Así, bases de datos como **MongoDB** y sistemas de procesamiento como **Hadoop** o **Spark** permiten realizar operaciones de forma distribuida procesando datos en volúmenes y tiempos impensables hasta hace algunos años.
+- Además, los avances en el área del procesamiento distribuido han alcanzado tanto a las bases de datos como a los sistemas de procesamiento.
 
-Las ELT realizan los procesos de transformación en la base de datos, aprovechando así el mejor rendimiento que estas herramientas ofrecen.
+- Así, bases de datos como **MongoDB** y sistemas de procesamiento como **Hadoop** o **Spark** permiten realizar operaciones de forma distribuida procesando datos en volúmenes y tiempos impensables hasta hace algunos años.
 
-En cambio, las herramientas de ETL no toman ventaja de configuraciones de disco (RAID) ni de la distribución de la memoria y procesador. También hacen transformaciones temporales y en muchos casos redundantes.
+- Las ELT realizan los procesos de transformación en la base de datos, aprovechando así el mejor rendimiento que estas herramientas ofrecen.
+
+- En cambio, las herramientas de ETL no toman ventaja de configuraciones de disco (RAID) ni de la distribución de la memoria y procesador. También hacen transformaciones temporales y en muchos casos redundantes.
 
 **ELTL**
 
-La variante **ELTL** hace uso de un nuevo elemento, las **_staging area_** (o _landing zone_), espacios temporales de almacenamiento en los que realizar las transformaciones antes de cargar los datos definitivamente en las base de datos de destino.
+- La variante **ELTL** hace uso de un nuevo elemento, las **_staging area_** (o _landing zone_), espacios temporales de almacenamiento en los que realizar las transformaciones antes de cargar los datos definitivamente en las base de datos de destino.
 
 ## ¿Cuál utilizar?
 
