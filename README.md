@@ -15,7 +15,7 @@ En la siguiente tabla se confrontan un serie de herramientas y tecnologías trad
 | Sistema tradicional | Sistema avanzado | Más información |
 |----------|----------|----------|
 | ETL | ELT / ELTL | [ETL vs ELT](ETL_vs_ELT.md) |
-| Data Warehouse | Data Lake | [Data Warehoude vs Data Lake](DataWarehouse_vs_DataLake.md) |
+| Data Warehouse | Data Lake | [Data Warehouse vs Data Lake](DataWarehouse_vs_DataLake.md) |
 | Java, SAS... | Python | [Java vs Python](Java_vs_Python.md) |
 | Oracle (RDBMS) | MongoDB (NoSql) | [Oracle vs MongoDB](Oracle_vs_MongoDB.md) |
 | RESTfull | GraphQL | [RESTfull vs GraphQL](RESTfull_vs_GraphQL.md) |
