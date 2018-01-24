@@ -47,9 +47,7 @@ Tiene soporte para programación procedimental, programación modular y algunos 
 
 ## Conclusiones
 
-Ningún lenguaje de programación es mejor que otro. Pero siempre un lenguaje de programación es mejor que otro PARA CIERTAS COSAS. El asunto está en saber qué necesito para mi aplicación.
-
-Un problema grave es cuando un programador se enfoca en uno de ellos, porque se cierra a muchas posibilidades.
+No hay un lenguaje de programación mejor que otro, pero sí lenguajes de programación que resuelven mejor determinados problemas. El asunto está en saber qué necesita nuestra aplicación y qué lenguaje es el ms indicado.
 
 ## Referencias y más información
 
