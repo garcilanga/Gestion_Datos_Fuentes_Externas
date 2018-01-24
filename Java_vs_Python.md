@@ -47,7 +47,7 @@ Tiene soporte para programación procedimental, programación modular y algunos 
 
 ## Conclusiones
 
-No hay un lenguaje de programación mejor que otro, pero sí lenguajes de programación que resuelven mejor determinados problemas. El asunto está en saber qué necesita nuestra aplicación y qué lenguaje es el mejor indicado.
+No hay un lenguaje de programación mejor que otro, pero sí lenguajes de programación que resuelven mejor determinados problemas. El asunto está en saber qué necesita nuestra aplicación y qué lenguaje es el más indicado.
 
 ## Referencias y más información
 
